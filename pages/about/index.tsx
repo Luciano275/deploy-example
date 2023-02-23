@@ -12,7 +12,7 @@ export default function About() {
       <main className={styles.main}>
         <div className={styles.description}>
           <p>
-            About Page
+            About
           </p>
         </div>
       </main>
